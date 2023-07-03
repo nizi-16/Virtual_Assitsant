@@ -1,4 +1,4 @@
-﻿beautifulsoup4==4.12.2
+beautifulsoup4==4.12.2
 blinker==1.6.2
 certifi==2023.5.7
 charset-normalizer==3.1.0
@@ -32,9 +32,11 @@ PyScreeze==0.1.29
 pyttsx3==2.90
 pytweening==1.0.7
 pywhatkit==5.4
+pywin32==306
 requests==2.31.0
 soupsieve==2.4.1
 SpeechRecognition==3.10.0
+upgrade-pip==0.1.4
 urllib3==2.0.3
 virtualenv==20.23.1
 Werkzeug==2.3.6
